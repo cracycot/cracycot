@@ -6,7 +6,7 @@
 </div>
 
 <h2>⚒️ My Stack of Technologies ⚒️</h2>
-        <img src="https://skillicons.dev/icons?i=python,django, c,cpp,cmake,git,github,mysql,sqlite"/><br>
+        <img src="https://skillicons.dev/icons?i=python,django,c,cpp,cmake,git,github,mysql,sqlite"/><br>
 <div valign="top" align="center">
         <h2>⚡ Stats ⚡</h2>
             <img src="https://github-readme-stats-salesp07.vercel.app/api?username=cracycot&count_private=true&show_icons=true&layout=embeded&theme=midnight-purple&border_radius=12" alt="readme stats">
