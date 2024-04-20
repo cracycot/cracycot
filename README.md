@@ -1,8 +1,9 @@
 ## <h1 align="center">Hi there, I'm <a>Kirill</a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A70EF7&lines=ITMO+computer+science+student)](https://git.io/typing-svg)
 <h2>⚒️ My Stack of Technologies ⚒️</h2>
-        <img src="https://skillicons.dev/icons?i=python,C,C++,Django" /><br>
-        <img src="https://skillicons.dev/icons?i=git,github," />
+        <img src="https://skillicons.dev/icons?i=python,c,cpp,django"/><br>
+        <img src="https://skillicons.dev/icons?i=git,github,cmake" /><br>
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
