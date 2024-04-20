@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a>Kirill</a>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A70EF7&lines=ITMO+computer+science+student)](https://git.io/typing-svg)
+        <img src="https://readme-typing-svg.herokuapp.com?color=A70EF7&lines=ITMO+computer+science+student" alt="Typing SVG" >
     </a>
 </div>
 
