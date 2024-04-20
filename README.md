@@ -4,13 +4,13 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?color=A70EF7&lines=ITMO+computer+science+student" alt="Typing SVG" >
+        <img src="https://readme-typing-svg.herokuapp.com?color=A70EF7&lines=computer+science+student+at+ITMO" alt="Typing SVG" >
     </a>
 </div>
 
 
 <h2>⚒️ My Stack of Technologies ⚒️</h2>
-        <img src="https://skillicons.dev/icons?i=python,django,c,cpp,cmake,git,github,mysql,sqlite"/><br>
+        <img src="https://skillicons.dev/icons?i=python,django,c,cpp,cmake,git,github,mysql,sqlite,html"/><br>
 <table>
 <tr>
         <h2>⚡ Stats ⚡</h2>
