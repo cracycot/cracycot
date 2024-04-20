@@ -7,7 +7,6 @@
 
 <h2>⚒️ My Stack of Technologies ⚒️</h2>
         <img src="https://skillicons.dev/icons?i=python,django,c,cpp,cmake,git,github,mysql,sqlite"/><br>
-<!-- <div valign="top" align="center"> -->
 <table>
 <tr>
         <h2>⚡ Stats ⚡</h2>
@@ -20,7 +19,6 @@
 
 </tr>
 </table>
-</div>
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
