@@ -11,7 +11,7 @@
         <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 <div valign="top" align="center">
         <h2>⚡ Stats ⚡</h2>
-            <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cracycot&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=12" alt="top langs">
+            <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cracycot&hide=HTML&langs_count=8&layout=responsive&theme=midnight-purple&border_radius=12" alt="top langs">
 </div>
 <div align="center">
     <h2>🐍 My Contributions 🐍</h2>
