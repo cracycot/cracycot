@@ -12,7 +12,6 @@
 <div valign="top" align="center">
         <h2>⚡ Stats ⚡</h2>
             <img src="https://github-readme-stats-salesp07.vercel.app/api?username=cracycot&count_private=true&show_icons=true&layout=responsive&theme=midnight-purple&border_radius=12" alt="readme stats">
-              <br>
             <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cracycot&hide=HTML&langs_count=8&layout=responsive&theme=midnight-purple&border_radius=12" alt="top langs">
 </div>
 <div align="center">
