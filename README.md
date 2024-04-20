@@ -6,6 +6,7 @@
     <h2>🐍 My Contributions 🐍</h2>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!--
 **cracycot/cracycot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
