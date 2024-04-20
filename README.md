@@ -1,5 +1,11 @@
 ## <h1 align="center">Hi there, I'm <a>Kirill</a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A70EF7&lines=ITMO+computer+science+student)](https://git.io/typing-svg)
+
+
+<div align="center">
+    <h2>🐍 My Contributions 🐍</h2>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
 <!--
 **cracycot/cracycot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
