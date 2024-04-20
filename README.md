@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a>Kirill</a>
+<h1 align="center">Hi there, I'm <a>Kirill</a><br>
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?color=A70EF7&lines=ITMO+computer+science+student" alt="Typing SVG" >
