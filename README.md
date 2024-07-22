@@ -10,7 +10,7 @@
 
 
 <h2>⚒️ My Stack of Technologies ⚒️</h2>
-        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,sqlite,c,cpp,git"/><br>
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mysql,sqlite,c,cpp,python,django,git"/><br>
 <table>
 <tr>
         <h2>⚡ Stats ⚡</h2>
