@@ -13,13 +13,22 @@
         <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kafka,docker,redis,elasticsearch,postgresql"/><br>
 <table>
 <tr>
-        <h2>⚡ Stats ⚡</h2>
-            <td valign="top" align="center">
-            <img src="https://github-readme-stats-salesp07.vercel.app/api?username=cracycot&count_private=true&show_icons=true&layout=embeded&theme=midnight-purple&border_radius=12" alt="readme stats">
-                    </td>
-            <td valign="top" align="center">
-            <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cracycot&hide=HTML&langs_count=8&layout=responsive&theme=midnight-purple&border_radius=12" alt="top langs">
-              </td>
+ <h2>⚡ Stats ⚡</h2>
+
+<table>
+  <tr>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=cracycot&count_private=true&show_icons=true&layout=compact&theme=midnight-purple&border_radius=12" alt="GitHub Stats">
+    </td>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cracycot&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=12" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/cracycot)
 
 </tr>
 </table>
