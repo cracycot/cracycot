@@ -28,7 +28,7 @@
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/cracycot?theme=dark&font=source_sans_pro&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/cracycot?theme=dark&font=source_sans_pro)
 </tr>
 </table>
 <!-- <div align="center">
