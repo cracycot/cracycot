@@ -20,9 +20,7 @@
     <td valign="top" align="center">
       <img src="https://github-readme-stats-salesp07.vercel.app/api?username=cracycot&count_private=true&show_icons=true&layout=compact&theme=midnight-purple&border_radius=12" alt="GitHub Stats">
     </td>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=cracycot&hide=HTML&langs_count=8&layout=compact&theme=midnight-purple&border_radius=12" alt="Top Languages">
-    </td>
+    ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cracycot&layout=compact&theme=dark)
   </tr>
 </table>
 
