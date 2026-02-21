@@ -10,7 +10,7 @@
 
 
 <h2>⚒️ My Stack of Technologies ⚒️</h2>
-        <img src="https://skillicons.dev/icons?i=go,yt,k8s,kafka,docker,redis,elasticsearch,postgresql"/><br>
+        <img src="https://skillicons.dev/icons?i=go,ytsaurus,kafka,k8s,clickhouse,docker,redis,elasticsearch,postgresql"/><br>
 <table>
 <tr>
  <h2>⚡ Stats ⚡</h2>
